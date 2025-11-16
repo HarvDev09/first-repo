@@ -1,5 +1,5 @@
 //The factorial number that you want to obtain.
-let n = 10;
+let n = 5;
 
 //Variable to calculate the factorial.
 let factorial = 1;
